@@ -21,13 +21,6 @@ Hi, I'm Roger Miranda, a Backend Developer 🚀 from Colombia. Currently I'm a s
 ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django&logoColor=092E20)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192)
 
-**Github Stats**
-
-![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerMi12&show_icons=true&theme=radical)
-<a href="https://github.com/RogerMi12">
-  <img alt="Roger's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerMi12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-
 **How to contact me**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-miranda-77424021b/)
