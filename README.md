@@ -23,8 +23,10 @@ Hi, I'm Roger Miranda, a Backend Developer 🚀 from Colombia. Currently I'm a s
 
 **Github Stats**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerMi12&layout=compact&theme=radical&hide=html,css)
 ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerMi12&show_icons=true&theme=radical)
+<a href="https://github.com/RogerMi12">
+  <img alt="Roger's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerMi12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 
 **How to contact me**
 
